@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Ohayo World!");
+            System.Console.WriteLine("Ohayo Sekai!");
         }
     }
 }
